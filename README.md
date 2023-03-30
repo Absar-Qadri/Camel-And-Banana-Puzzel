@@ -1,1 +1,1 @@
-# Camel-And-Banana-Puzzel
+# Camel-And-Banana-Puzzle
